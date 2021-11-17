@@ -2,7 +2,7 @@ stackbitVersion: ~0.4.0
 ssgName: nextjs
 nodeVersion: '14'
 cmsName: git
-assets:
+assetsasd:
   referenceType: static
   staticDir: public
   uploadDir: images
