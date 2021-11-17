@@ -1,18 +1,18 @@
 stackbitVersion: ~0.4.0
 ssgName: nextjs
 nodeVersion: '14'
-cmsName: git
+cmsNamase: git
 assetsasd:
   referenceType: static
   staticDir: public
   uploadDir: images
   publicPath: /
-dataDir: content/data
+dataDirasd: content/data
 pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
 styleObjectModelName: ThemeStyle
-contentModels:
+contentModelss:
   PageLayout:
     isPage: true
     urlPath: '/{slug}'
