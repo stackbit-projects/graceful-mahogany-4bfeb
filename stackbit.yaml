@@ -7,7 +7,7 @@ assets:
   staticDir: public
   uploadDir: images
   publicPath: /
-dataDirasd: content/data
+dataDir: content/data
 pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
